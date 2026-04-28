@@ -57,7 +57,7 @@ It is well-suited for **quantitative research, factor testing, and strategy prot
 * **Universe**: CSI 300 constituents
 * **Period**: 2021-01-01 to 2022-12-31
 * **Rebalancing**: Monthly (last trading day)
-* **Portfolio Size**: Top 30 stocks
+* **Portfolio Size**: Top 10 stocks
 * **Weighting**: Equal-weight
 * **Initial Capital**: 10,000,000
 * **Transaction Cost**: 0.15% per side
