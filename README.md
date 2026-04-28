@@ -117,8 +117,10 @@ quant/
 │   ├── financial_data.csv
 │   └── benchmark.csv
 ├── src/
+│   ├── __init__.py
 │   ├── data_loader.py
 │   ├── factors/
+│   │   ├── __init__.py
 │   │   ├── growth_factor.py
 │   │   ├── momentum_factor.py
 │   │   └── quality_factor.py
@@ -127,9 +129,16 @@ quant/
 │   ├── backtest_engine.py
 │   └── performance.py
 ├── results/
+│   ├── factor_analysis/
+│   ├── backtest/
+│   └── metrics.txt
+├── generate_data_py311.py
+├── generate_data_requirements.txt
 ├── config.py
 ├── main.py
-└── README.md
+├── README_CN.md
+├── README.md
+└── requirements.txt
 ```
 
 ### Module Description
