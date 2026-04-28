@@ -241,15 +241,17 @@ Includes:
 
 | Metric               | Strategy | CSI 300 |
 | -------------------- | -------: | ------: |
-| Total Return         |   -4.05% | -32.32% |
-| Annual Return        |   -2.13% | -15.97% |
-| Volatility           |   24.09% |       - |
-| Sharpe Ratio         |    -0.21 |       - |
-| Max Drawdown         |  -38.02% |       - |
-| Excess Return        |   28.27% |       - |
-| Excess Annual Return |   13.84% |       - |
-| Information Ratio    |     0.76 |       - |
-| Monthly Win Rate     |   56.52% |       - |
+| Total Return         |   15.94% | -34.16% |
+| Annual Return        |    5.27% | -12.97% |
+| Volatility           |   33.10% |       - |
+| Sharpe Ratio         |     0.07 |       - |
+| Max Drawdown         |  -43.42% |       - |
+| Calmar Ratio         |     0.12 |       - |
+| Excess Return        |   74.57% |       - |
+| Excess Annual Return |   21.33% |       - |
+| Information Ratio    |     0.79 |       - |
+| Excess Max Drawdown  |  -31.38% |       - |
+| Monthly Win Rate     |   54.29% |       - |
 
 **Interpretation:**
 
