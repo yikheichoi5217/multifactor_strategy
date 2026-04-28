@@ -24,7 +24,7 @@ END_DATE = "2022-12-31"
 REBALANCE_FREQ = "M"
 
 # 持仓股票数量
-TOP_N = 30
+TOP_N = 10
 
 # 单边交易成本（千分之1.5）
 COMMISSION_RATE = 0.0015
