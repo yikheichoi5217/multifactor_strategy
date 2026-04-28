@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+akshare
+baostock
+requests
+lxml
+html5lib
+beautifulsoup4
