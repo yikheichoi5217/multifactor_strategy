@@ -67,15 +67,6 @@ METRICS_PATH = os.path.join(RESULTS_DIR, "metrics.txt")
 
 def ensure_directories():
     """
-    创建项目运行所需目录（若不存在则自动创建）。
-
-    参数：
-        无
-
-    返回：
-        无
-
-    原理：
         使用 os.path.exists 判断目录是否存在，
         不存在时通过 os.makedirs 递归创建目录，避免后续文件写入报错。
     """

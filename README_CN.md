@@ -87,9 +87,12 @@ quant/
 │   ├── backtest/
 │   └── metrics.txt
 ├── generate_data_py311.py
+├── generate_data_requirements.txt
 ├── config.py
 ├── main.py
-└── README.md
+├── README_CN.md
+├── README.md
+└── requirements.txt
 ```
 
 各模块作用说明：
@@ -107,7 +110,6 @@ quant/
 
 ## 4. 环境配置步骤
 
-> 约束：Python 3.6，依赖版本需与项目一致。
 
 ### 4.1 使用 conda 创建环境
 

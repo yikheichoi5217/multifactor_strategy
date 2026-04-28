@@ -148,10 +148,6 @@ def fetch_price_with_baostock(code, start_date, end_date):
 def download_stock_pool():
     """
     使用 AKShare 中证指数成分股接口下载沪深300股票池。
-
-    注意：
-    该接口返回的是当前沪深300成分股列表，
-    因此 stock_pool.csv 中的“日期”可能是当前日期。
     """
     print("下载沪深300成分股...")
     df = call_with_retry(ak.index_stock_cons_csindex, symbol="000300")
