@@ -55,7 +55,7 @@ It is well-suited for **quantitative research, factor testing, and strategy prot
 ### 3.1 Universe & Backtest Setup
 
 * **Universe**: CSI 300 constituents
-* **Period**: 2021-01-01 to 2022-12-31
+* **Period**: 2021-01-01 to 2023-12-31
 * **Rebalancing**: Monthly (last trading day)
 * **Portfolio Size**: Top 10 stocks
 * **Weighting**: Equal-weight
